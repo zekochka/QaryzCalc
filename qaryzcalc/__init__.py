@@ -1,0 +1,2 @@
+"""QaryzCalc package."""
+
